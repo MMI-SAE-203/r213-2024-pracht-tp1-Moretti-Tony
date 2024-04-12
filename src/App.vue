@@ -33,7 +33,7 @@ const menuIsOpen = ref(false)
           <RouterLink to="/" class="text-red-500 underline"> Accueil </RouterLink>
         </li>
         <li>
-          <RouterLink to="/" class="text-red-500 underline"> Accueil </RouterLink>
+          <RouterLink to="/accordeon" class="text-red-500 underline"> Accordeon </RouterLink>
         </li>
       </ul>
 </nav>
